@@ -1,3 +1,7 @@
 Nombre y apellido: Kevin Veliz
 IP maquina: 192.168.1.10
 Hora: 11:01hs 
+
+Nombre y apellido: Gian Franzoso
+IP maquina:  192.168.0.1
+Hora: 11:27
